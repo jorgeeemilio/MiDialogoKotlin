@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiDialogoKotlin</string>
+    <string name="btn_open_dialog">Seleccionar Estación</string>
+    <string name="dialog_title">Seleccione una estación:</string>
+    <string name="btn_elegir">Elegir</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="cd_img_estacion">Estación elegida</string>
+
+    <string-array name="estaciones_array">
+        <item>Elegir una estación</item>
+        <item>Primavera</item>
+        <item>Verano</item>
+        <item>Otoño</item>
+        <item>Invierno</item>
+    </string-array>
+</resources>

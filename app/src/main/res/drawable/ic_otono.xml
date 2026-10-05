@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Hoja de roble seca (Marrón pardo de otoño) -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M12,2 C12,2 10.5,3.5 10.5,5 C10.5,5.8 8,5 7,6 C6,7 7,9 8,9.5 C7,9.8 5,10 5,11.5 C5,13 7,14 8.5,14 C7.5,14.5 6,15.5 6.5,17 C7,18.5 9.5,18 11,18 L11,22 L13,22 L13,18 C14.5,18 17,18.5 17.5,17 C18,15.5 16.5,14.5 15.5,14 C17,14 19,13 19,11.5 C19,10 17,9.8 16,9.5 C17,9 18,7 17,6 C16,5 13.5,5.8 13.5,5 C13.5,3.5 12,2 12,2 Z" />
+
+    <!-- Nervio principal y secundario (Marrón oscuro) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,4 L12,18 M12,7 L8,6.5 M12,7 L16,6.5 M12,11 L7,10.5 M12,11 L17,10.5 M12,15 L8,14.5 M12,15 L16,14.5"
+        android:strokeColor="#4E342E"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+</vector>
